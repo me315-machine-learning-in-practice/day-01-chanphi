@@ -4,6 +4,8 @@ output: html_document
 ---
 
 
+1ST SUBMIT
+
 ## Basic R Commands
 
 The commands below
@@ -99,6 +101,7 @@ persp(x,y,fa,theta=30,phi=40)
 
 
 ### Activity 2 
+
 
 Construct x and y to be sequences of length 100 from -5 to 5. Then
 1. Set f1 to be 2 times x and do a scatter plot of x and f1.
