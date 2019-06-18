@@ -3,9 +3,7 @@ title: "ME315_Day01"
 output: html_document
 ---
 
-
-1ST SUBMIT
-2nd submit
+TEST
 
 ## Basic R Commands
 
